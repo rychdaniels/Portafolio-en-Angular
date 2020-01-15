@@ -1,4 +1,4 @@
-# Portafolio en Angular (https://rychdaniels.github.io/Portafolio-en-Angular/)
+# Portafolio en Angular  
 
 Este portafolio fue creado con Angular y firebase. Con ayuda de Angular se crearon las vistas de la pàgina, en firebase se almacenò parte de los archivos correspodientes a la vista "about".  
 
