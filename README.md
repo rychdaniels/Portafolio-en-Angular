@@ -1,27 +1,41 @@
-# Portafolio
+# Portafolio en Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+Este portafolio fue creado con Angular y firebase. Con ayuda de Angular se crearon las vistas de la pàgina, en firebase se almacenò parte de los archivos correspodientes a la vista "about".
 
-## Development server
+## Herramientas usadas en el proyecto:  
+- Angular. 
+- Firebase.  
+- Bootstrap.  
+- TypeScript.  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Instalar Angular.   
+`npm install -g @angular/cli`
 
-## Code scaffolding
+## Instalar node_modules.  
+Es necesario instalar los modulos de Node.js para poder utilizar el proyecto, esto se hace mediante el comando:  
+`npm install`  
+Se debe abrir un terminal dentro de la carpeta donde se encuentra el proyecto y ejecutar el comando antes mencionado.   
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Despliegue del servidor  
 
-## Build
+Ejecutar `ng serve` en la raiz del proyecto. Navegar a `http://localhost:4200/`. La pàgina se actualizarà automaticamente cada vez que se haga un cambio en el proyecto.  
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Screenshot.  
 
-## Running unit tests
+## Vista: *Inicio*  
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![screencapture-rychdaniels-github-io-Portafolio-en-Angular-2020-01-15-12_19_35](https://user-images.githubusercontent.com/36280877/72459948-7de27480-3791-11ea-866c-7fc32f9ab441.png)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Vista: *Acerca de los integrantes*  
+![screencapture-rychdaniels-github-io-Portafolio-en-Angular-2020-01-15-12_21_48](https://user-images.githubusercontent.com/36280877/72460027-a5394180-3791-11ea-9120-ae98f38cbc2a.png)
 
-## Further help
+## Vista: *Busqueda de articulos*  
+![screencapture-rychdaniels-github-io-Portafolio-en-Angular-2020-01-15-12_23_58](https://user-images.githubusercontent.com/36280877/72460178-f47f7200-3791-11ea-891f-b9fa67efb2be.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Vista: *Productos*  
+![screencapture-rychdaniels-github-io-Portafolio-en-Angular-2020-01-15-12_25_38](https://user-images.githubusercontent.com/36280877/72460326-34465980-3792-11ea-9d35-07c7cab8e764.png)
+
+
+![screencapture-rychdaniels-github-io-Portafolio-en-Angular-2020-01-15-12_24_51](https://user-images.githubusercontent.com/36280877/72460256-1547c780-3792-11ea-8eb5-5cceab58d257.png)
+
