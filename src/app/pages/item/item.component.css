@@ -1,0 +1,10 @@
+.rk-portfolio-title, .rk-portfolio-category{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 7px 7px 2px black; 
+    
+  }
+
+  .rk-portfolio-category{
+    font-size: 35px;
+  }
